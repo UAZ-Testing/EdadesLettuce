@@ -43,7 +43,7 @@ Feature: Evaluación de edad
   cuando realizo la evaluación
   entonces obtengo el resultado "eres Mumm-Ra"
 
-     Scenario: Evaluar edad u
+  Scenario: Evaluar edad u
   Dado que ingreso la edad "u"
   cuando realizo la evaluación
   entonces obtengo el resultado "debes insertar un número"
